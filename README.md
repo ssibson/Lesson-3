@@ -13,3 +13,5 @@ In my career, I am seeking a role that will tap in to my interest in finance and
 ---
 
 I chose FinTech to tap in to my interest in finance and to best prepare myself for a role in today's tech-forward job marketplace. 
+
+![markdown-image](run-the-jewels-4-1591200217-640x640)
